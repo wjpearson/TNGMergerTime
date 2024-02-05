@@ -1,6 +1,6 @@
 # Determining the time before or after a galaxy merger event
 ## William J. Pearson
-### V. Rodriguez-Gomez, S. Kruk, B. Margalef-Bentabol
+### V. Rodriguez-Gomez, S. Kruk, B. Margalef Bentabol
 
 Code to accompany Pearson et al. A&A Submitted
 
@@ -54,7 +54,7 @@ For the networks, choose the network you want to train and run their relavent `X
 
 For the latent spaces, choose the embedding you want and run their relavent `YYY.py` script after running `autoencoder.py` and `encode.py` if training from scratch, or just `encode.py` if using our models.
 
-## Acknowldge us
+## Acknowledge us
 
 If you use these networks, please cite our paper.
 
