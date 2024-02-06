@@ -22,7 +22,8 @@ For training the networks, we normalise the times to be between 0 and 1, such th
 
 ## Architectures
 
-Four architectures are available: ResNet50, Swin Transformer, CNN, Autoencoder. The best performing trained models are provided and should be placed in the `./models/` directory.
+Four architectures are available: ResNet50, Swin Transformer, CNN, Autoencoder. The best performing trained models are provided and should be placed in the `./models/` directory.    
+Models are stored in Git LFS and are bundled in the release.
 
 ### ResNet50
 
