@@ -1,7 +1,6 @@
 import numpy as np
 from astropy.table import Table
 from sklearn.random_projection import SparseRandomProjection as SRP
-import pandas as pd
 import matplotlib.pyplot as plt
 
 import sron_colours

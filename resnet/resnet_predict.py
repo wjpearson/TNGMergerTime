@@ -1,12 +1,10 @@
 from tensorflow import keras
 import tensorflow as tf
 tf.keras.backend.set_floatx('float32')
-import tensorflow_datasets as tfds
 
 from tensorflow.keras.applications.resnet50 import ResNet50
 
 from tf_fits.image import image_decode_fits
-from tensorflow_addons.image import rotate as tfa_image_rotate
 from math import pi
 AUTOTUNE = tf.data.experimental.AUTOTUNE
 

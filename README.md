@@ -57,7 +57,22 @@ For the latent spaces, choose the embedding you want and run their relavent `YYY
 
 ## Acknowledge us
 
-If you use these networks, please cite our paper.
+If you use these networks, please cite our paper:
+
+```
+@ARTICLE{Pearson2024,    
+    author = {{Pearson}, W.J. and {Rodriguez-Gomez}, V. and {Kruk}, S. and {Margalef-Bentabo}, B.},
+    title = "{Determining the time before or after a galaxy merger event}",
+    journal = {A\&A submitted},
+    keywords = {},
+    year = 2024,
+    month = ,
+    volume = {},
+    number = {},
+    pages = {},
+    doi = {}
+}
+```
 
 ## Acknowledgements
 

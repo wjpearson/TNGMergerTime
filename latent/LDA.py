@@ -1,7 +1,6 @@
 import numpy as np
 from astropy.table import Table
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
-import pandas as pd
 import matplotlib.pyplot as plt
 
 import sron_colours

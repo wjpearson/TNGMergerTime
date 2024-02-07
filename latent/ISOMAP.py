@@ -1,7 +1,6 @@
 import numpy as np
 from astropy.table import Table
 from sklearn.manifold import Isomap
-import pandas as pd
 import matplotlib.pyplot as plt
 
 import sron_colours

@@ -1,12 +1,10 @@
 from tensorflow import keras
 import tensorflow as tf
 tf.keras.backend.set_floatx('float32')
-import tensorflow_datasets as tfds
 
 from tensorflow.keras.applications.resnet50 import ResNet50
 
 from tf_fits.image import image_decode_fits
-from tensorflow_addons.image import rotate as tfa_image_rotate
 from math import pi
 AUTOTUNE = tf.data.experimental.AUTOTUNE
 
@@ -97,7 +95,6 @@ g = tf.random.Generator.from_seed(int(time()))
 #@tf.function
 def augment_img(img, label, name, xcoord, ycoord):
     img = tf.image.rot90(img, k=g.uniform([], 0, 4, dtype=tf.int32))
-    #img = tfa_image_rotate(img, g.uniform([], 0, 2*pi, dtype=tf.float32), 'BILINEAR')
     img = tf.image.random_flip_left_right(img)
     img = tf.image.random_flip_up_down(img)
 

@@ -1,7 +1,5 @@
 from tensorflow import keras
 import tensorflow as tf
-import tensorflow_hub as hub
-import tensorflow_datasets as tfds
 
 import os
 import sys
@@ -10,7 +8,6 @@ import numpy as np
 import glob
 
 from tf_fits.image import image_decode_fits
-from tensorflow_addons.image import rotate as tfa_image_rotate
 from math import pi
 AUTOTUNE = tf.data.experimental.AUTOTUNE
 

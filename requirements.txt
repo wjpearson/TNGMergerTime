@@ -1,0 +1,8 @@
+numpy>=1.23.0
+tensorflow>=2.9.1
+tensorflow-hub>=0.12.0
+tf-fits>=1.0.0
+scikit-learn>=1.3.0
+umap>=0.5.3
+astropy>=5.2
+matplotlib>3.6.3
