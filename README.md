@@ -47,7 +47,7 @@ Six latent space embeddings are avaliable: [Isomap](https://scikit-learn.org/sta
 [Linear Discriminant Analysis (LDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html), 
 [Neighbourhood Components Analysis, Sparse Random Projection](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html), 
 [Truncated singular value decomposition (TruncatedSVD)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html), 
-and [Uniform Manifold Approximation and Projection (UMAP)](https://umap-learn.readthedocs.io/en/latest/index.html). The embeddings areprovided and should be placed in the `./model/` directory.
+and [Uniform Manifold Approximation and Projection (UMAP)](https://umap-learn.readthedocs.io/en/latest/index.html). The embeddings are provided and should be placed in the `./model/` directory.
 
 ## Running the scripts
 
@@ -61,7 +61,7 @@ If you use these networks, please cite our paper:
 
 ```
 @ARTICLE{Pearson2024,    
-    author = {{Pearson}, W.J. and {Rodriguez-Gomez}, V. and {Kruk}, S. and {Margalef-Bentabo}, B.},
+    author = {{Pearson}, W.J. and {Rodriguez-Gomez}, V. and {Kruk}, S. and {Margalef-Bentabol}, B.},
     title = "{Determining the time before or after a galaxy merger event}",
     journal = {A\&A submitted},
     keywords = {},
