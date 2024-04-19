@@ -60,17 +60,21 @@ For the latent spaces, choose the embedding you want and run their relavent `YYY
 If you use these networks, please cite our paper:
 
 ```
-@ARTICLE{Pearson2024,    
-    author = {{Pearson}, W.J. and {Rodriguez-Gomez}, V. and {Kruk}, S. and {Margalef-Bentabol}, B.},
-    title = "{Determining the time before or after a galaxy merger event}",
-    journal = {A\&A submitted},
-    keywords = {},
-    year = 2024,
-    month = ,
-    volume = {},
-    number = {},
-    pages = {},
-    doi = {}
+@ARTICLE{2024arXiv240411166P,
+       author = {{Pearson}, W.~J. and {Rodriguez-Gomez}, V. and {Kruk}, S. and {Margalef-Bentabol}, B.},
+        title = "{Determining the time before or after a galaxy merger event}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2024,
+        month = apr,
+          eid = {arXiv:2404.11166},
+        pages = {arXiv:2404.11166},
+          doi = {10.48550/arXiv.2404.11166},
+archivePrefix = {arXiv},
+       eprint = {2404.11166},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv240411166P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
 
