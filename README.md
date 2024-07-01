@@ -2,8 +2,9 @@
 ## William J. Pearson
 ### V. Rodriguez-Gomez, S. Kruk, B. Margalef Bentabol
 
-Code to accompany Pearson et al. A&A Submitted
+Code to accompany Pearson et al. A&A, 687, A45 (2024)
 
+[![DOI](https://zenodo.org/badge/753186911.svg)](https://zenodo.org/doi/10.5281/zenodo.12606426)
 
 ## Data
 
@@ -77,9 +78,6 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...687A..45P},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
-
-
 ```
 
 ## Acknowledgements
